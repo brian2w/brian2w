@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi, I'm @brian2w (Brian Wang) 👋
+ - 👀 I'm currently interested in fullstack development and machine learning
+ - 🎓 Penultimate Computer Science student @ UNSW
+ - 📬 Get in contact with me - brian.wang900@gmail.com & https://www.linkedin.com/in/brian-wang-48bb33198/
 
 <!--
 **brian2w/brian2w** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
