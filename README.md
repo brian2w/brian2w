@@ -1,7 +1,7 @@
 ### Hi, I'm @brian2w (Brian Wang) 👋
  - 🧳 Software Engineer at Snapchat Inc. 👻
  - 👀 I'm currently interested in fullstack development and machine learning
- - 🎓 Penultimate Computer Science student @ UNSW
+ - 🎓 Graduated Bachelor of Computer Science @ UNSW
  - 📬 Get in contact with me - brian.wang900@gmail.com & https://www.linkedin.com/in/brian-wang-48bb33198/
 
 <!--
